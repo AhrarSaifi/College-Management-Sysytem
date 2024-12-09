@@ -1,0 +1,25 @@
+C:\Users\Acer\AppData\Local\Temporary Projects\College Management System\bin\Debug\College Management System.exe.config
+C:\Users\Acer\AppData\Local\Temporary Projects\College Management System\bin\Debug\College Management System.exe
+C:\Users\Acer\AppData\Local\Temporary Projects\College Management System\bin\Debug\College Management System.pdb
+C:\Users\Acer\AppData\Local\Temporary Projects\College Management System\bin\Debug\College Management System.xml
+C:\Users\Acer\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Resources.resources
+C:\Users\Acer\AppData\Local\Temporary Projects\College Management System\obj\Debug\College Management System.vbproj.GenerateResource.Cache
+C:\Users\Acer\AppData\Local\Temporary Projects\College Management System\obj\Debug\College Management System.exe
+C:\Users\Acer\AppData\Local\Temporary Projects\College Management System\obj\Debug\College Management System.xml
+C:\Users\Acer\AppData\Local\Temporary Projects\College Management System\obj\Debug\College Management System.pdb
+C:\Users\Acer\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.Login.resources
+C:\Users\Acer\AppData\Local\Temporary Projects\College Management System\obj\Debug\College_Management_System.splash.resources
+D:\College Management System\college Management System\College Management System\bin\Debug\College Management System.exe.config
+D:\College Management System\college Management System\College Management System\obj\Debug\College Management System.exe
+D:\College Management System\college Management System\College Management System\obj\Debug\College Management System.xml
+D:\College Management System\college Management System\College Management System\obj\Debug\College Management System.pdb
+D:\College Management System\college Management System\College Management System\bin\Debug\College Management System.exe
+D:\College Management System\college Management System\College Management System\bin\Debug\College Management System.pdb
+D:\College Management System\college Management System\College Management System\bin\Debug\College Management System.xml
+D:\College Management System\college Management System\College Management System\obj\Debug\College_Management_System.Login.resources
+D:\College Management System\college Management System\College Management System\obj\Debug\College_Management_System.splash.resources
+D:\College Management System\college Management System\College Management System\obj\Debug\College_Management_System.Resources.resources
+D:\College Management System\college Management System\College Management System\obj\Debug\College_Management_System.Students.resources
+D:\College Management System\college Management System\College Management System\obj\Debug\College Management System.vbproj.GenerateResource.Cache
+D:\College Management System\college Management System\College Management System\obj\Debug\College_Management_System.Teachers.resources
+D:\College Management System\College Management System\College Management System\obj\Debug\College_Management_System.Departments.resources
